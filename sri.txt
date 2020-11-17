@@ -1,0 +1,3 @@
+echo "ghh" > sri.txt
+kslk
+ssssss
